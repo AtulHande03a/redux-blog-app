@@ -19,6 +19,20 @@
 - CRUD functionality in blog app.
 
 ---
+ <br />              
+<br />
+<!-- BUILT WITH -->
+
+## **Technology/ Languages Used**
+
+- React Js
+- CSS
+- Redux
+- React Router v6
+
+
+<br />
+<br />
 
 [screen-capture (3).webm](https://user-images.githubusercontent.com/76784537/190634875-468f8213-40ea-4887-982b-c33e84b2d29b.webm)
 
