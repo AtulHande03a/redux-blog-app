@@ -27,7 +27,7 @@
 
 - React Js
 - CSS
-- Redux
+- Redux Toolkit
 - React Router v6
 
 
