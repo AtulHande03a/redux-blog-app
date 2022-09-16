@@ -26,3 +26,25 @@
 ![Screenshot (138)](https://user-images.githubusercontent.com/76784537/190633128-d0208153-2265-4820-8a18-d9722b42cf77.png)
 ![Screenshot (139)](https://user-images.githubusercontent.com/76784537/190633134-98cde819-cf9b-449f-aea2-c8521128d168.png)
 
+
+## **Social Links**
+Let's connect and talk about development, music, books and much more 🌠! 
+> [GitHub Profile](https://github.com/AtulHande03a) &nbsp;&middot;&nbsp; 
+> [LinkedIn Profile](https://www.linkedin.com/in/atul-hande/) &nbsp;&middot;&nbsp;
+> [Twitter Profile](https://twitter.com/AtulHande9) &nbsp;&middot;&nbsp;
+> [Hashnode Blogs](https://atulhande03a.hashnode.dev/) &nbsp;&middot;&nbsp;
+
+<br />
+
+## Acknowledgements
+
+ - [Harsh Pathak](https://www.youtube.com/c/HarshPathakNV)
+ 
+
+
+
+<hr />
+<p align="center">Copyright &copy; 2022 
+  <br />
+  <a href="https://github.com/AtulHande03a">👩‍💻 Atul Hande</a>
+</p>
